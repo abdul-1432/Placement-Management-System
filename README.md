@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    cd placement-management-system
-   ./mvnw spring-boot:run
+   ./mvnw spring-boot: run
    ```
 
    The application will start on `http://localhost:8080`.
@@ -60,12 +60,9 @@ Before you begin, ensure you have the following installed:
 2. Use the provided API endpoints for student registration, company registration, job postings, etc.
 3. Explore the different modules based on your role (student, company, admin).
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [TNS Foundation](LICENSE).
 
 Feel free to reach out if you have any questions or need assistance!
