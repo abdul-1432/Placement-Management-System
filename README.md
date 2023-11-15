@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/placement-management-system.git
+   git clone https://github.com/abdul-1432/Placement-Management-System
    ```
 
 2. Set up the database:
